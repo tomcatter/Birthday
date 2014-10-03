@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthday</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="birth">生日</string>
+    <string name="bless_sms">短信祝福</string>
+    <string name="center">个人中心</string>
+    <string name="more">更多</string>
+
+</resources>
