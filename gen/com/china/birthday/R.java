@@ -47,21 +47,24 @@ public final class R {
         public static final int zhuce=0x7f020016;
     }
     public static final class id {
-        public static final int action_settings=0x7f080008;
-        public static final int applaoding=0x7f080000;
-        public static final int tab_item_1=0x7f080001;
-        public static final int tab_item_2=0x7f080002;
-        public static final int tab_item_3=0x7f080003;
-        public static final int tab_item_4=0x7f080004;
-        public static final int title=0x7f080006;
-        public static final int title_addpeople=0x7f080007;
-        public static final int title_edit=0x7f080005;
+        public static final int action_settings=0x7f08000a;
+        public static final int applaoding=0x7f080002;
+        public static final int birth_grid=0x7f080001;
+        public static final int birth_listview=0x7f080000;
+        public static final int tab_item_1=0x7f080003;
+        public static final int tab_item_2=0x7f080004;
+        public static final int tab_item_3=0x7f080005;
+        public static final int tab_item_4=0x7f080006;
+        public static final int title=0x7f080008;
+        public static final int title_addpeople=0x7f080009;
+        public static final int title_edit=0x7f080007;
     }
     public static final class layout {
         public static final int birth=0x7f030000;
-        public static final int load=0x7f030001;
-        public static final int tab=0x7f030002;
-        public static final int title=0x7f030003;
+        public static final int bless=0x7f030001;
+        public static final int load=0x7f030002;
+        public static final int tab=0x7f030003;
+        public static final int title=0x7f030004;
     }
     public static final class menu {
         public static final int load=0x7f070000;

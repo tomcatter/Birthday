@@ -4,7 +4,23 @@
     android:layout_height="match_parent"
     android:background="@drawable/newbg"
     android:orientation="vertical" >
-    
-    
+
+    <include layout="@layout/title" />
+
+    <ListView
+        android:id="@+id/birth_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:cacheColorHint="#00000000"
+        android:divider="@null" >
+    </ListView>
+
+    <GridView
+        android:id="@+id/birth_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:numColumns="3" >
+    </GridView>
 
 </LinearLayout>
